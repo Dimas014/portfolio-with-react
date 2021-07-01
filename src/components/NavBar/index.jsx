@@ -33,7 +33,7 @@ const NavBar = () => {
         <div className="logo">
           <Link to="/">
             <img
-              src=" https://raw.githubusercontent.com/Dimas014/public-image/main/LOGO-UNTIRTA.png"
+              src=" https://raw.githubusercontent.com/Dimas014/public-image/main/LOGO-UNTIRTA.png?raw=true"
              
               alt="brand"
             />
